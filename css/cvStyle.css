@@ -1,0 +1,11 @@
+html,body{
+  height: 100%;
+}
+
+nav a:hover {
+  background-color: #213242;
+}
+
+.container-height{
+  height: 100%;
+}
